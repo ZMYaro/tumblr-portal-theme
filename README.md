@@ -12,3 +12,5 @@ A Tumblr theme based on elements from _Portal_ test chambers.  It is based on wh
 6. If it looks good, select the blue ”Save” button.
 
 Certain customization options are available; not all have been tested.  Feel free to report issues in GitHub.  I recommend Background color #2D3337 and ContentBackground color #F8F9F5.
+
+While I cannot control what you do on your own blog, I do ask that you leave the links in the sidebar giving credit to Valve for creating _Portal_ and myself for writing this theme.
